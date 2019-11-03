@@ -33,7 +33,7 @@ def msg_received_from_group():
   elif data['text'].lower() == "what's the weather today?":
     send_msg("ITS FINE GET OUT THERE YOU WHIPPERSNAPPER")
 
-  elif data['text'].lower() == "I overslept":
+  elif data['text'].lower() == "i overslept":
     send_msg("You're weak and evolution is coming for you.")
 	
 	
