@@ -23,7 +23,7 @@ def msg_received_from_group():
     send_msg("Hello World!")
 
 
-  elif data['text'].lower() == "Fatih":
+  elif data['text'].lower() == "fatih":
     send_msg("LEROYYYYYYY JENKINS")
 	
 
